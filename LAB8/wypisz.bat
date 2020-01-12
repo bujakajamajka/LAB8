@@ -1,0 +1,1 @@
+FOR %%X IN (C:\Users\piotr\Desktop\*.*) DO ECHO %%X
